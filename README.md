@@ -11,7 +11,7 @@ This repo is forked from [AI Driving Olympics](https://github.com/duckietown/cha
     $ git clone https://github.com/tonycar12002/duckiepond-imitaion-learning.git
     $ cd ~/duckiepond-imitaion-learning/extract_data
     $ mkdir -p data/bag_files
-    (Put your bag files here and rename "VEHNAME_NUMBER.bag". ex:MONICA_1.bag )
+    (Put your bag files here and rename "NUMBER_VEHNAME.bag". ex:1_MONICA.bag )
     $ cd ~/duckiepond-imitaion-learning/extract_data
     $ python src/extract_data.py
     ```
